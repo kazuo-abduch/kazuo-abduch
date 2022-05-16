@@ -4,7 +4,7 @@ Me chamo Rafael Kazuo, sou e estudante de desenvolvimento web FullStack na Trybe
 Meu maior objetivo e motivação é resolver problemas e acredito que, como Dev, tenho as ferramentas necessárias para tornar a vida das pessoas um pouco menos difícil :)
 
 My name is Rafael Kazuo, I am a student of Web Development Fullstack at Trybe, also graduated in Game Design, an illustrator and art enthusiast.
-My greates goal and motivation is to fix problems, and i believe that, as a Dev, I have the necessary tools to make people's live a little less dificult :)
+My greates goal and motivation is to fix problems, and i believe that, as a Dev, I have the necessary tools to make people's lives a little less dificult :)
 
 ### Contact me 👍
 
