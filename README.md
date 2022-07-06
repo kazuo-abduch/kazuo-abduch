@@ -12,7 +12,7 @@ My greates goal and motivation is to fix problems, and i believe that, as a Dev,
 
 ### My Stats ⭐
 
-<div align="center">
+<div>
   <img height=200em src="https://github-readme-stats.vercel.app/api?username=kazuo-abduch&show_icons=true&theme=dracula"/>
   <img height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuo-abduch&layout=compact&hide_borders=true&langs_count=7&theme=dracula"/>
 </div>
