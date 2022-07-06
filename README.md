@@ -13,8 +13,8 @@ My greates goal and motivation is to fix problems, and i believe that, as a Dev,
 ### My Stats ⭐
 
 <div>
-  <img width=400em src="https://github-readme-stats.vercel.app/api?username=kazuo-abduch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width=400em src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuo-abduch&layout=compact&hide_borders=true&langs_count=7&theme=dracula"/>
+  <img height=200em src="https://github-readme-stats-rongronggg9.vercel.app/api?username=kazuo-abduch&include_all_commits=true&show_icons=true&theme=dracula"/>
+  <img height=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuo-abduch&layout=compact&hide_borders=true&langs_count=7&theme=dracula"/>
 </div>
 
 ### Languages and Tools 💻
