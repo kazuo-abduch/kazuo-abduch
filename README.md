@@ -1,9 +1,9 @@
 ### Hello there 👋
 
-Me chamo Rafael Kazuo, sou e estudante de desenvolvimento web FullStack na Trybe também formado em Design de Games, estudante de ilustração e amante das artes.
+Me chamo Rafael Kazuo, sou Desenvolvedor FullStack formado na Trybe além de Game Designer formado pela Anhembi Morumbi, estudante de ilustração e amante das artes.
 Meu maior objetivo e motivação é resolver problemas e acredito que, como Dev, tenho as ferramentas necessárias para tornar a vida das pessoas um pouco menos difícil :)
 
-My name is Rafael Kazuo, I am a student of Web Development Fullstack at Trybe, also graduated in Game Design, an illustrator and art enthusiast.
+My name is Rafael Kazuo, I am a Web Developmer Fullstack and also graduated in Game Design, an illustrator and art enthusiast.
 My greates goal and motivation is to fix problems, and i believe that, as a Dev, I have the necessary tools to make people's lives a little less dificult :)
 
 ### Contact me 👍
